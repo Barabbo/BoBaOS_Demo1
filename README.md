@@ -38,7 +38,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rotating-shaded-cube.git
+   git clone https://github.com/Barabbo/BoBaOS_Demo1.git
 
 -------
 Navigate to the project directory:
